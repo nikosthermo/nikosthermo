@@ -52,7 +52,7 @@ I'm a passionate Lead Software Engineer in Test with extensive experience design
 - Various specializations in Django and Python Programming from University of Michigan
 
 ## Honors & Awards
-- Test Automation University Top 10 (TAU 100) - Ranked #7
+- Test Automation University Top 10 (TAU 100) - Ranked #8
   - [TAU 100 Ranking URL](https://testautomationu.applitools.com/tau100.html)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikolaos-thermogiannis/)!
