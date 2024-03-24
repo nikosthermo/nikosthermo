@@ -8,7 +8,7 @@ I'm a passionate Lead Software Engineer in Test with extensive experience design
 - 🌱 I enjoy mentoring and sharing my knowledge while staying updated with industry advancements through conferences and meetups
 
 ## Experience
-### Reydix - Lead Software Engineer in Test
+### [Reydix] - Lead Software Engineer in Test
 [March 2023 - Present]
 - Architected JavaScript test automation framework to validate native iOS/Android apps in the Live Entertainment Industry
 - Ensured holistic quality assurance throughout the software development lifecycle
