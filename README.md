@@ -3,23 +3,17 @@
 ## About Me
 I'm a passionate Lead Software Engineer in Test with extensive experience designing and building automated testing frameworks for Web and Mobile applications. I thrive on working with a diverse tech stack, including Python, Java, JavaScript, Selenium and Appium. My expertise extends to Security, Agile methodologies, Continuous Integration and Continuous Delivery.
 
-- 🔭 Currently leading the QA team at Reydix
+- 🔭 Currently leading the QA department at Reydix
 - 💬 Ask me about Automation Testing, QA methodologies or the latest tech trends
 - 🌱 I enjoy mentoring and sharing my knowledge while staying updated with industry advancements through conferences and meetups
 
 ## Experience
 ### Reydix - Lead Software Engineer in Test
-[Sep 2023 - Present]
-- Led testing efforts aligned with business objectives, managing test automation frameworks
+[March 2023 - Present]
+- Architected the implementation of JavaScript test automation framework to validate native iOS/Android apps in the Live Entertainment Industry
 - Ensured holistic quality assurance throughout the software development lifecycle
 - Evaluated emerging tools/tech for improved testing processes
 - Mentored and fostered a high-performance team culture
-
-### [Reydix] - Senior Software Engineer in Test
-[Mar 2023 - Sep 2023]
-- Developed JavaScript automation framework for native iOS/Android apps in Live Entertainment
-- Collaborated cross-functionally for high-quality releases
-- Mentored team members on QA and automation testing
 
 ### [OpenBet] - Senior Software Engineer in Test
 [Nov 2021 - Mar 2023]
